@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif; /* Fuente general para todaa la pagina*/
+    margin: 0; /* Margen */
+    background-color: #dad6d6; /* Color de fondo */
+    line-height: 1.6; /* Espaciado entre líneas */
+    text-align: center; /* centrado del texto*/
+}
+
+header {
+    background-color: #8377b9; /* Color de fondo */
+    color: white; /* Color del texto */
+    padding: 24px; /* Relleno */
+    height: 140px; /* altura*/
+    width: 100%; /*ancho*/
+    text-align: center; /*centrado del texto*/
+    margin-top: 0px; /*margen superior*/
+}
+
+main {
+    padding: 24px; /* Area de relleno */
+}
+
+
+p {
+    max-width: 600px; /* Ancho */
+    margin: 40px auto; /* Centrado de párrafos */
+}
+
+footer {
+    background-color: #835c7e; /* Color de fondo */
+    color: white; /* Color del texto*/
+    padding: 10px; /* Relleno */
+    text-align: center; /* Centrado de texto */
+    position: relative; /* Posición */
+    width: 100%; /* Ancho */ 
+    display: flex; /* respresentacion del elemento*/
+    gap: 12px; /*espacio */
+}
